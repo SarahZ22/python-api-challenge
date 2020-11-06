@@ -17,4 +17,4 @@ But, if pressed, how would you prove it?
 
 ### Process
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator utilizing a simple Python library and the OpenWeatherMap API  to create a representative model of weather across world cities. Created multiple linear regression plots to visualize the data. \
-Also used  jupyter-gmaps and the Google Places API to woek with weather data to view optimal vaction locations vaed of a set of conditions. This was displayed on gmaps in JupyterNotebook.
+Also used  jupyter-gmaps and the Google Places API to work with weather data to view optimal vacation locations based on a set of conditions. This was displayed using gmaps in JupyterNotebook.
